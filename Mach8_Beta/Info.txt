@@ -1,0 +1,20 @@
+DISCLAIMER: Mach8 beta versions are never finished, and therefore cannot be expected to function as intended regardless of the changes made from the previous release.
+
+
+Beta 1.2 Change Log:
+
+ - Improved overall organization within the files
+ - Changed almost all function names for simplicity (mh8_ prefix was removed)
+ - DriveStraight function was renamed to driveStraight
+ - Added additional math functions -> toRadians & toDegrees
+ - Removed unnecessary code for config.h defined motors (Wasn't usable without expert config enabled)
+
+
+Current features in development:
+
+ - Gps driving using trigonometric functions
+
+
+[DEPRECATED] Beta 1.1 Change Log:
+
+Changed motor names to L1, L2, etc. for easier 6 motor drive modification
