@@ -5,6 +5,7 @@ Beta 1.2 Change Log:
 
  - Improved overall organization within the files
  - Changed almost all function names for simplicity (mh8_ prefix was removed)
+ - Optimized deltaX and deltaY functions for faster compile times and decreased file size
  - DriveStraight function was renamed to driveStraight
  - Added additional math functions -> toRadians & toDegrees
  - Removed unnecessary code for config.h defined motors (Wasn't usable without expert config enabled)
