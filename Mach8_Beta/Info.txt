@@ -10,11 +10,12 @@ Beta 1.2 Change Log:
  - Removed unnecessary code for config.h defined motors (Wasn't usable without expert config enabled)
 
 
-Current features in development:
+Do do list before release 1.2:
 
  - Gps driving using trigonometric functions
+ - All-inclusive namespace for easier importing/setup for new users
 
 
 [DEPRECATED] Beta 1.1 Change Log:
 
-Changed motor names to L1, L2, etc. for easier 6 motor drive modification
+ - Changed motor names to L1, L2, etc. for easier 6 motor drive modification
